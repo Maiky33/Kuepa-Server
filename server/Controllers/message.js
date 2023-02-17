@@ -3,7 +3,7 @@ import Message from "../models/message.js";
 
 //hacemos objeto con las dos funciones a necesitar
 const Controller = {
-  //Funcion para guardar los mensajes
+  //Funcion para guardar los mensajess
 
   save: (req, res) => {
     //guardamos lo que resibimos
