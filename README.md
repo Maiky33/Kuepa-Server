@@ -19,7 +19,7 @@
 //para poder connectar a la base de datos ademas de la dependencia mongoose debemos usar el servicio atlas que ofrece Mongodb este servicio es gratuito, se debe 
 instalar la dependecia cors para asi poder conectar al servidor / base de datos sin errores 
 
-//en el archivo index.js de la carpeta server a la variable let url:'mongodb+srv://maicol:maicol997608@kuepa.qq1uoxh.mongodb.net/?retryWrites=true&w=majority'
+//en el archivo index.js de la carpeta server a la variable LET url:'mongodb+srv://maicol:maicol997608@kuepa.qq1uoxh.mongodb.net/?retryWrites=true&w=majority'
 
 //Debemos  cambiarlo por la url nos proporcione el servicio de atlasMongo // de esta manera conectamos a la base de datos
 
