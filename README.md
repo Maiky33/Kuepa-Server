@@ -1,6 +1,8 @@
 # Kuepa-Prueba
 
+#BAJADA
 
+// La app de estudiante funciona Como un MERNSTACK debemos bajarnos el Servidor y aparte el Cliente que se encuentra en que se encuentra en https://github.com/Maiky33/Kuepa-cliente una vez hayamos bajado nuetros archivos client/server debemos meterlos en una carpeta, abrir la carpeta en el editor de codigo y empezar a instalar las dependencias Para ambas Carpetas
 
 #Instalacion
 
